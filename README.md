@@ -1,4 +1,8 @@
-## Hi there 👋
+## Holaaa 👋
+
+Actualmente estoy trabajando en mis propios proyectos a pequeña escala para seguir aprendiendo sobre tecnologías nuevas o actuales con las que disfruto trabajar.
+También quiero empezar a trabajar en cualquier empleo que me ayude a crecer como desarrollador y a adquirir la experiencia de trabajar con un gran equipo.
+Dato curioso: soy mitad españolprogramador y mitad ingeniero y llevo más de 6 años de conocimientos en tecnología.
 
 <!--
 **Lazaro-Fillaux/Lazaro-Fillaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

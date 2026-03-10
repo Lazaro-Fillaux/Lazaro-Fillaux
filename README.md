@@ -39,4 +39,4 @@ Me gusta trabajar con tecnologías modernas y seguir aprendiendo cada día.
 ## 🌐 Conecta conmigo
 
 💼 LinkedIn: https://www.linkedin.com/in/lazaro-fillaux-bab216376  
-📧 Email: fllaux33@email.com
+📧 Email: fllaux33@gmail.com

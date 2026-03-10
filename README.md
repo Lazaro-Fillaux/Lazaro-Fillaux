@@ -27,4 +27,4 @@ Me gusta aprender programación, crear proyectos y mejorar mis habilidades en te
 
 ## 🌎 Conecta conmigo
 
-[LinkedIn](https://linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/lazaro-fillaux-bab216376/)

@@ -30,11 +30,12 @@ Me gusta trabajar con tecnologías modernas y seguir aprendiendo cada día.
 
 ## 📊 Estadísticas de GitHub
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lazaro-Fillaux&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro-Fillaux&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lazaro-Fillaux&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro-Fillaux&layout=compact&theme=tokyonight)
 
 ## 🌐 Conecta conmigo
 

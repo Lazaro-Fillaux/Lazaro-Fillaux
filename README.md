@@ -16,15 +16,10 @@ Me gusta aprender programación, crear proyectos y mejorar mis habilidades en te
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Matlab](https://img.shields.io/badge/MATLAB-orange)
-
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 
 ---

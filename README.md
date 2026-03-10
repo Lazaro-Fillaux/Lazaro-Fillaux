@@ -4,17 +4,27 @@ Actualmente estoy trabajando en mis propios proyectos a pequeña escala para seg
 También quiero empezar a trabajar en cualquier empleo que me ayude a crecer como desarrollador y a adquirir la experiencia de trabajar con un gran equipo.
 Dato curioso: soy mitad españolprogramador y mitad ingeniero y llevo más de 6 años de conocimientos en tecnología.
 
-<!--
-**Lazaro-Fillaux/Lazaro-Fillaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack 
+📚 Aprendizaje continuo  
+⚽ Fan del Real Madrid
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender programación, crear proyectos y mejorar mis habilidades en tecnología.
+
+## 🚀 Tecnologías
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Matlab](https://img.shields.io/badge/MATLAB-orange)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lazaro-Fillaux&show_icons=true)
+
+---
+
+## 🌎 Conecta conmigo
+
+[LinkedIn](https://linkedin.com)
